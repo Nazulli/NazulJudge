@@ -1,3 +1,11 @@
+# The program is designed to challenge myself to make the program more complex thru my skills and efforts.
+# The way the program is designed to do so is to actively come up with new ideas and fail me if I can't implement them properly.
+# This would make for a confusing project to track on Github
+# This also would mean that a normal user trying to engage with my program wouldn't really understand or see the point in it.
+# I plan to change the direction of the program to still challenge my coding skills, but also be interactive and intend to display said skills.
+
+#todo: change project aim and scope
+
 import time
 import conversationTracker
 Scene = conversationTracker.scenePlay 
@@ -20,6 +28,5 @@ if inputGiven == '':
 
 else:
     print(f'Input verified. Input given: {inputGiven}. Continuing...')
-    
     
     
